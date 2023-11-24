@@ -18,7 +18,7 @@ Para adquirir essa camiseta exclusiva, siga estes passos simples:
 
 1. **Clique no link abaixo** para fazer seu pedido.
 2. Escolha o tamanho e a quantidade desejada.
-3. Envie este [arquivo](https://shopee.com.br/Camiseta-Camisa-Personalizada-Estampa-com-Sua-Frase-Aqui-Minha-Frase-Em-Algod%C3%A3o-Penteado-i.324950512.6662860820?xptdk=04cfeaf4-1558-4d92-880f-84dc88b86620) para o vendedor
+3. Envie este [arquivo](/assets/modelo1.png) para o vendedor
 
 [Adquira sua Camiseta Aqui](https://shopee.com.br/Camiseta-Camisa-Personalizada-Estampa-com-Sua-Frase-Aqui-Minha-Frase-Em-Algod%C3%A3o-Penteado-i.324950512.6662860820?xptdk=04cfeaf4-1558-4d92-880f-84dc88b86620)
 
