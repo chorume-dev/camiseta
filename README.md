@@ -10,7 +10,7 @@ Ao vestir essa camiseta, você se conecta com a fusão de dois mundos. Sinta a v
 
 Assim como os trappers têm um ritmo próprio, esta camiseta segue seu próprio compasso. Recomendamos escolher uma numeração acima do seu tamanho usual para garantir um caimento confortável e estiloso.
 
-![Arte da Camiseta](link_para_a_imagem_da_camiseta)
+![Arte da Camiseta](/assets/camiseta.jpg)
 
 ## Como Comprar
 
